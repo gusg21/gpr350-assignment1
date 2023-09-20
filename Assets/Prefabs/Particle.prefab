@@ -96,7 +96,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04ee629fcb5944caf8573fac0c676baf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inverseMass: 0
   velocity: {x: 0, y: 0}
-  dampingConstant: 0
   acceleration: {x: 0, y: 0}
   accumulatedForces: {x: 0, y: 0}
+  dampingConstant: 0
