@@ -1,0 +1,12 @@
+{
+    "tests": [
+	{"fullname": "MovementTest.VariablesExistTest",
+         "points": 2.5},
+	{"fullname": "MovementTest.IntegratorTest",
+	 "points": 2.5},
+	{"fullname": "MovementTest.VelocityLogicTest",
+         "points": 5},
+	{"fullname": "SceneTests.SceneTest",
+         "points": 10}
+    ]
+}
